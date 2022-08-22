@@ -1,0 +1,14 @@
+[MAPA81]
+Name=Descanso
+MusicNum=54-1
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=CIUDAD
+Zona=CIUDAD
+Restringir=No
+BackUp= 0
+Pk=1
+Domar=1
+Mascotas=1

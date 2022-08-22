@@ -1,0 +1,18 @@
+[mapa208]
+Name=TORNEO
+MusicNum=0
+StartPos=0-0-0
+PK=0
+Terreno=TORNEO
+Zona=TORNEO
+Restringir=No
+BackUp= 0
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=0
+NoEncriptarMP=0
+Domar= 1
+Mascotas=1
+Monturas=1
+Lluvia=1
+Invisible=1

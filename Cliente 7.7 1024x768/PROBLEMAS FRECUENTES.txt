@@ -1,0 +1,120 @@
+---------------------------------------------------------------------------------------------------------
+------------------------------------ Problemas Frecuentes v.6.9 -----------------------------------------
+---------------------------------------------------------------------------------------------------------
+
+
+Antes que nada si el problema es algún RUNTIME ERROR pruebe ejecutar el Soluciona_Problemas.exe que se suministra con el aodrag y luego vuelva intentar cargar el juego.
+Recuerde que si tiene WINDOWS VISTA  la forma de ejecutarlo es: botón derecho de ratón sobre Soluciona_Problemas.exe y luego EJECUTAR COMO ADMINSTRADOR.
+Si el problema persiste a siga leyendo.
+
+
+--------------------------------------------------------------------------------------------------------
+No se puede inicializar Directdraw...
+---------------------------------------------------------------------------------------------------------
+
+Si tienes windows vista, enhorabuena! la has cagao :p:
+
+Botón de Inicio--> En búsqueda poner: "cmd" --> En "cmd.exe", clic derecho y dar en "Ejecutar como Administrador" --> En la ventanita negra escribir: RegSvr32 DX7VB.DLL y pulsar la tecla Intro o Enter.
+
+En WinXP o Win98: Inicio--> Ejecutar--> RegSvr32 DX7VB.DLL
+
+Solución alternativa (sólo WinXP y anteriores): asegúrate de que tienes la última versión del directx instalado en tu pc: http://www.microsoft.com/downloads/d...displaylang=es
+
+---------------------------------------------------------------------------------------------------------
+Run-time Error 339 o/y run-time Error 713
+---------------------------------------------------------------------------------------------------------
+
+Te falta registrar una librería (dll) o un ocx. Anota bien su nombre y dependiendo si tienes el windows vista o no, registralo siguiendo los pasos que se muestran en el punto anterior: RegSvr32 nombredll-ocx
+
+---------------------------------------------------------------------------------------------------------
+Run-time Error 7, out of memory
+---------------------------------------------------------------------------------------------------------
+
+Reinicia, libera consumo de memoria y.. asegúrate de que no te falta alguna dll u ocx, que las tienes bien todas instaladas. Si aun así sigue apareciendote el dichoso mensajito, instala esto: http://visual-basic-runtime-files.softonic.com/
+
+--------------------------------------------------------------------------------------------------------
+Solución Runtime Error 5
+--------------------------------------------------------------------------------------------------------
+
+En la carpeta donde instalaste aodrag, busca el archivo AOSetup -> configurar argentum -> desmarca la opcion 'Usar memoria video' -> guardar -> salir
+
+-------------------------------------------------------------------------------------------------------
+Al iniciar el cliente me sale Runtime error339 flash.ocx
+-------------------------------------------------------------------------------------------------------
+
+Esto se soluciona bajandote los controladores de flash :)
+
+------------------------------------------------------------------------------------------------------
+No puedo moverme, cualquier objeto pesa una exageración 
+------------------------------------------------------------------------------------------------------
+
+Tienes un problema con los decimales. Has de cambiar el idioma de windows.
+Primero, vamos a Inicio, Configuración, y Panel de Control.
+Ahora entramos a Configuración regional y de idioma
+Allí elegimos, en la solapa Opciones regionales el estándar y formato de Español (España).
+
+------------------------------------------------------------------------------------------------------
+¿Por qué veo las letras de la interfaz gigantes?
+------------------------------------------------------------------------------------------------------
+
+Tienes que instalar las fuentes que utiliza AoDrag.
+
+Abre la carpeta donde instalaste el AoDrag -> abre la carpeta fonts -> selecciona todas -> click derecho -> copiar
+
+Ahora inicio -> panel de control -> fuentes -> click derecho en el fondo -> pegar
+
+-------------------------------------------------------------------------------------------------------
+¿Cómo juego sin que me cambie la resolución?
+-------------------------------------------------------------------------------------------------------
+En la pantalla principal (donde te aparece, conectar, crear cuenta, recuperar cuenta, etc) -> click en opciones -> donde pone 'resolucion del juego', marca la casilla 'mantener la del pc' -> guardar los cambios y salir del juego
+
+-------------------------------------------------------------------------------------------------------
+¿Cómo juego sin las animaciones flash?
+-------------------------------------------------------------------------------------------------------
+En la pantalla principal (donde te aparece, conectar, crear cuenta, recuperar cuenta, etc) -> click en opciones -> donde pone 'animaciones en los menus', marca la casilla 'Menus sin animaciones' -> guardar los cambios y salir del juego
+
+-------------------------------------------------------------------------------------------------------
+¿Cómo consigo el cliente sin techos?
+-------------------------------------------------------------------------------------------------------
+No necesitas un cliente especial, sigue estas instrucciones:
+En la pantalla principal (donde te aparece, conectar, crear cuenta, recuperar cuenta, etc) -> click en opciones -> donde pone 'opciones visuales', marca la casilla 'Sin techos'
+
+-------------------------------------------------------------------------------------------------------
+Pulso enter para hablar, y tengo que darle varias veces para que funcione, e igual con la tecla equipar
+------------------------------------------------------------------------------------------------------
+
+Esto se debe a algo "extraño" (?? chetoso) que te bajaste. La forma para reconocer esto es mirando en la lista de procesos (Ctrl+alt+supr) si tienes el proceso csRRs.exe (no confundir con csrSS.exe, el cual forma parte de windows)
+Primero, vas a tener que eliminar el proceso (click derecho, terminar proceso).
+Luego, vas a inicio, ejecutar, y escribes "msconfig" y quitas el tilde de cualquier elemento extraño.
+Luego solo te queda un buen escaneo con el antivirus y buscarte un buen firewall.
+
+-------------------------------------------------------------------------------------------------------
+Problemas de "visibilidad", como los siguientes:
+-------------------------------------------------------------------------------------------------------
+
+-Veo la pantalla negra.
+-Veo la pantalla con "AodraG" grande tapando todo.
+-Me dice: "te faltan todos los archivos .ind que van en la carpeta INIT si los tienes desactiva la memoria de video".
+-Me va lento, pocos fps.
+-No veo bichos grandes.
+-Botones, cosas que no encajan.
+-Rayas blancas cerca de los botoncitos y la mano de lanzar magia.
+
+La solución en este tema: http://www.juegosdrag.net/foros/showthread.php?p=5607#post5607
+
+--------------------------------------------------------------------------------------------------------
+Para cualquier otro tipo de problema usen nuestro CHAT y serán atendidos rápidamente, si lo prefieren 
+pueden usar nuestro foro o nuestro email.
+--------------------------------------------------------------------------------------------------------
+
+NUESTRO cHAT: http://www.juegosdrag.net/aodragV6/Chat.html (NO NECESITA CLAVE SOLO PULSEN ENTRAR)
+
+FORO AYUDA Y SOPORTE: http://www.juegosdrag.net/foros/forumdisplay.php?f=14
+
+EMAIL: juegosdrag@gmail.com
+
+Web: www.juegosdrag.es
+     www.juegosdrag.net
+     www.aodrag.com.ar
+
+Gracias a Indil y Gilean

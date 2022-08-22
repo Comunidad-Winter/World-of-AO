@@ -1,0 +1,36 @@
+[TEXTOS]
+Cantidad=33
+TEXTO1=16/04/2021
+TEXTO2=- Sistema de lider faccionario, ahora deberas matar el Rey Dragon alojado en el evento Castillo de 
+TEXTO3=sangre quien podra dropear la Corona del Rey Dragon (20% probabilidad). Mediante el comando 
+TEXTO4=/LIDER, podremos convertirnos en lider faccionario. 
+TEXTO5=Beneficios: Nombre de otro color, letras de otro color al hablar, Manto del Lider y rango unico en canal de discord.
+TEXTO6=- Se eliminaron del automatismo los Juegos del Hambre, solo podran ser organizados por GMs.
+TEXTO7=- Trabajadores y personajes menos de nivel 30 no podran ingresar a las guerras faccionarias.
+TEXTO8=- Se arreglaron varios errores en el evento de guerra faccionaria.
+TEXTO9=- Ahora podras ver la vida de tu rey en la guerra faccionaria.
+TEXTO10=- Se arreglo el cuerpo del gigante de roca en mapa 91. (Se volvia invisible).
+TEXTO11=- Se redujo la evasion del Asesino, de 1.1 a 1.0 .Se aumento la vida maxima a 625 (En remort).
+TEXTO12=- Para lanzar los hechizos: Llama de Dragon, Incinerar, Lluvia de Sangre y Implosion,
+TEXTO13=deberan tener equipado un baculo con +20 poder magico.
+TEXTO14=- Se aumento el valor del Amuleto de Salvacion a 500 puntos de canje.
+TEXTO15=- Al morir con un Amuleto de Salvacion, un aura se despedira de nuestro cuerpo.
+TEXTO16=- Los fragmentos seran dropeados por cualquier npc con mas de 10.000 de vida a partir de nivel 30.
+TEXTO17=- Las palabras magicas se borraran automaticamente al lanzar hechizos.
+TEXTO18=- Se aumento el dano de Kong y Hipogrifo hacia los NPCs.
+TEXTO19=- Se limito el ingreso de usuarios por clan a un mismo castillo (Segun nivel del clan). Nivel 1, 3 users.
+TEXTO20=Nivel 2, 4 users. Nivel 3, 5 users. Nivel 4, 6 users. Nivel 5, 7 users. Nivel 6, 8 users.
+TEXTO21=- Se agrego un sistema de ranked 1v1 aleatorio por rangos, el rango estara definido por tus puntos de ELO
+TEXTO22=y seran visibles debajo del indicador de Nivel del personaje. Tus puntos de ELO te ubicaran dentro de los
+TEXTO23=siguientes rangos. Los rangos mas altos del juego, podran participar de torneos y ligas, donde se premiara
+TEXTO24=con dinero real. Las mismas estaran stremeadas por twich. Tu rango sera visible en tu Nick.
+TEXTO25=- Se mejoro el evento Blood Castle, sera mas complicado hacerlo, deberan organizase correctamente.
+TEXTO26=- La probabilidad de golpear con el 2do arma usando Armas dobles, se redujo a un 20% con maximos skills.
+TEXTO27=- La lluvia no gasta energia.
+TEXTO28=- El poder solo es otorgado a usuarios que se encuentren en zonas inseguras, en ciudades solo durara 
+TEXTO29=un minuto en casi de ingresar con el poder.
+TEXTO30=- Se habilito la BARRA ESPACIODORA para potear configurando teclas (Letra B).
+TEXTO31=- Se agrego un nuevo sistema de creacion de items Artesano, el mismo se encuentra en Nix, Ulla y Bander. 
+TEXTO32=Este NPC crea todos los items del juego a cambio de materiales. 
+TEXTO33=Se eliminaron las clases: Carpintero, Herrero y Ermitano.
+

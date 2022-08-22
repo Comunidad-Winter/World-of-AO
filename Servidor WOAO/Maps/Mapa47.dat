@@ -1,0 +1,14 @@
+[MAPA47]
+Name=Isla Beleta
+MusicNum=10-1
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=ISLA
+Zona=ISLA
+Restringir=No
+BackUp= 1
+Pk=1
+Domar=1
+Mascotas=1

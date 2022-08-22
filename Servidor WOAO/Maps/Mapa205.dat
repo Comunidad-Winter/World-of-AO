@@ -1,0 +1,17 @@
+[mapa205]
+Name=Blood Castle
+MusicNum=34-1
+StartPos=0-0-0
+PK=1
+Terreno=CAMPO
+Zona=CAMPO
+Restringir=No
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=1
+NoEncriptarMP=0
+Domar= 1
+Mascotas= 1
+Monturas= 1
+Lluvia=1
+Invisible = 1

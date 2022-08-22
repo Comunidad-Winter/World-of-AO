@@ -1,0 +1,9 @@
+[INIT]
+NivCiu=40
+NNivCiu=Snow Bros
+NivCrimi=30
+NNivCrimi=Rtsa
+Maxtorneo=1
+NMaxtorneo=Horda
+Moro=1003
+NMoro=Alianza

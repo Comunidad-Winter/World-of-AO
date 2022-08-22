@@ -1,0 +1,1 @@
+Línea 59: la clase MSWinsockLib.Winsock del control ws_server no era una clase de control cargada.

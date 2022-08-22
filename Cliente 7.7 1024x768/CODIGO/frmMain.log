@@ -1,0 +1,5 @@
+Línea 40: la clase SocketWrenchCtrl.Socket del control Socket1 no era una clase de control cargada.
+Línea 107: la clase RichTextLib.RichTextBox del control RecTxt2 no era una clase de control cargada.
+Línea 270: la clase RichTextLib.RichTextBox del control RecTxt3 no era una clase de control cargada.
+Línea 298: la clase RichTextLib.RichTextBox del control RecTxt no era una clase de control cargada.
+Línea 376: la clase RichTextLib.RichTextBox del control RecTxt4 no era una clase de control cargada.
